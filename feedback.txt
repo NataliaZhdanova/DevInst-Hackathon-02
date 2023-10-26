@@ -1,0 +1,6 @@
+Natalia Zhdanova: Glassdoor data scraper
+Really good idea, so useful!
+I loved that you are using modules like bs4 and pandas, those are clever options to web scraping.
+Your code is clear and easy to follow because you structured it well and commented all the steps.
+I just wish you could use more of the concepts we've learned in class, like Databases (instead of creating a excel file you could save
+the info in a database ;) )
